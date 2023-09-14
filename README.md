@@ -1,2 +1,2 @@
 # ListadeFilmes
-A função principal do seu programa é permitir que os usuários registrem informações sobre filmes, como título, diretor e ano de lançamento, e depois visualizem essas informações em uma lista.
+A função principal do programa é permitir que os usuários registrem informações sobre filmes, como título, diretor e ano de lançamento, e depois visualizem essas informações em uma lista. Isso pode ser útil em aplicações de gerenciamento de filmes, onde os usuários desejam manter um registro de sua coleção pessoal de filmes ou onde é necessário exibir informações sobre filmes disponíveis em um catálogo.
